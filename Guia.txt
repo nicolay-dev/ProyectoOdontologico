@@ -1,0 +1,9 @@
+Que es
+que hace
+diseño:
+porque hacerlo (que lo hace diferente)
+Ejemplo historia de usuario extendida
+vistas (logica,fisica,despliegue,casos de uso,procesos)
+bd
+html
+Gracias
